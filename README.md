@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm muhwagwa!
-SNU student majoring in 👩🏻‍💻Computer Science and 👩🏻‍🎨Visual Design
+
 ### ✉️ Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeju-na-0a474b1b2/)](https://www.linkedin.com/in/hyeju-na-0a474b1b2/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeju.naaa@gmail.com)](mailto:hyeju.naaa@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chloe.na.work@gmail.com)](mailto:chloe.na.work@gmail.com)
 
 
 
